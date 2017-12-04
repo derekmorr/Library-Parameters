@@ -6,7 +6,7 @@
     <AssemblyVersion>1.0</AssemblyVersion>
     <AssemblyDescription>Input Parameters Library for LANDIS-II</AssemblyDescription>
     <AssemblyCopyright>2014 University of Notre Dame</AssemblyCopyright>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Edu.Wisc.Forest.Flel.Util">
